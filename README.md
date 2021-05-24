@@ -1,9 +1,3 @@
-# Responsibilities
-**Luan Nguyen:** Create the layout structure, Experience List, Add new Experience, Delete Experience, Update Experience, Languages List, Add new Languages, Delete Languages, Update Languages
-**Hung Phung:** Create Backend architecture, Registration Page, Login Page, Project List Page  
-**Michael Anetor:** Contact Me Page, Basic Information Page, Cover Letter Page  
-**Roman Mbwasi:** Resume List (Home) Page, Profile Page, Job Objective Page, Education Page   
-
 ## Note if running locally use 'npm run local' to start the backend.
 ## EndPoints
 
